@@ -1,29 +1,30 @@
-# Friend Finder - Node and Express Servers App
+# Friend Finder App
 
 - - -
 
 ### Overview
 
-Friend Finder is a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+Friend Finder is a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from a user's survey, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match with you.
 
-In Friend Finder Express is used to to handle routing. Friend Finder is deployed on Heroku so other users can fill it out.
 
 - - -
 
 ### Technologies used in Friend Finder include 
 
-* npm module packes `express` and `path`
+* npm module packages `express` and `path`
+* Node and Express Servers
 
 - - -
 
 
-### Hosted on Heroku
+### Friend Finder on Heroku
 
-* heroku link/url
+* https://jasonsfriendfinder.herokuapp.com/
 
 - - -
 
 ### Developed by:
 
 * Jason Ostergren - Full Stack Engineer
+
 
